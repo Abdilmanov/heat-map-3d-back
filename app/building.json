@@ -1,0 +1,719 @@
+[
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "мкр. Алгабас-1, д. 5/1",
+    "street_no": "д. 5/1",
+    "longtitude": "76.816097",
+    "meter_ids": [
+      6991,
+      14127
+    ],
+    "street": "мкр. Алгабас-1,",
+    "latitude": false,
+    "id": 2758,
+    "cadastral_number": "20-321-050-050",
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "мкр. Алгабас-1, д. 5/10",
+    "street_no": "д. 5/10",
+    "longtitude": "76.815847",
+    "meter_ids": [
+      6992,
+      14136
+    ],
+    "street": "мкр. Алгабас-1,",
+    "latitude": false,
+    "id": 2759,
+    "cadastral_number": "20-321-050-035",
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "мкр. Алгабас-1, д. 5/12",
+    "street_no": "д. 5/12",
+    "longtitude": "76.816548",
+    "meter_ids": [
+      6993,
+      14137
+    ],
+    "street": "мкр. Алгабас-1,",
+    "latitude": false,
+    "id": 2760,
+    "cadastral_number": "20-321-050-035",
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "мкр. Алгабас-1, д. 5/13",
+    "street_no": "д. 5/13",
+    "longtitude": "76.817471",
+    "meter_ids": [
+      6994,
+      14138
+    ],
+    "street": "мкр. Алгабас-1,",
+    "latitude": false,
+    "id": 2761,
+    "cadastral_number": "20-321-050-039",
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "мкр. Алгабас-1, д. 5/14",
+    "street_no": "д. 5/14",
+    "longtitude": "76.817581",
+    "meter_ids": [
+      6995,
+      14139
+    ],
+    "street": "мкр. Алгабас-1,",
+    "latitude": false,
+    "id": 2762,
+    "cadastral_number": "20-321-050-044",
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "мкр.Алгабас-1, д. 5/15",
+    "street_no": "д. 5/15",
+    "longtitude": "76.81671",
+    "meter_ids": [
+      6996,
+      14140
+    ],
+    "street": "мкр.Алгабас-1,",
+    "latitude": false,
+    "id": 2763,
+    "cadastral_number": "20-321-050-043",
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "мкр. Алгабас-1, д. 5/2",
+    "street_no": "д. 5/2",
+    "longtitude": "76.815353",
+    "meter_ids": [
+      6997,
+      14130
+    ],
+    "street": "мкр. Алгабас-1,",
+    "latitude": false,
+    "id": 2764,
+    "cadastral_number": "20-321-050-048:1/А",
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "мкр. Алгабас-1, д. 5/3",
+    "street_no": "д. 5/3",
+    "longtitude": "76.814624",
+    "meter_ids": [
+      6998,
+      14131
+    ],
+    "street": "мкр. Алгабас-1,",
+    "latitude": false,
+    "id": 2765,
+    "cadastral_number": "20-321-050-040",
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "мкр. Алгабас-1, д. 5/4",
+    "street_no": "д. 5/4",
+    "longtitude": "76.813709",
+    "meter_ids": [
+      6999,
+      14132
+    ],
+    "street": "мкр. Алгабас-1,",
+    "latitude": false,
+    "id": 2766,
+    "cadastral_number": "20-321-050-049:1А",
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "мкр. Алгабас-1, д. 5/5",
+    "street_no": "д. 5/5",
+    "longtitude": "76.813036",
+    "meter_ids": [
+      7000,
+      14128
+    ],
+    "street": "мкр. Алгабас-1,",
+    "latitude": false,
+    "id": 2767,
+    "cadastral_number": "20-321-050-052",
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "мкр. Алгабас-1, д. 5/6",
+    "street_no": "д. 5/6",
+    "longtitude": "76.812919",
+    "meter_ids": [
+      7001,
+      14129
+    ],
+    "street": "мкр. Алгабас-1,",
+    "latitude": false,
+    "id": 2768,
+    "cadastral_number": "20-321-050-053:1/А",
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "мкр. Алгабас-1, д. 5/7",
+    "street_no": "д. 5/7",
+    "longtitude": "76.813458",
+    "meter_ids": [
+      7002,
+      14133
+    ],
+    "street": "мкр. Алгабас-1,",
+    "latitude": false,
+    "id": 2769,
+    "cadastral_number": "6/210644",
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "мкр. Алгабас-1, д. 5/8",
+    "street_no": "д. 5/8",
+    "longtitude": "76.814347",
+    "meter_ids": [
+      7003,
+      14134
+    ],
+    "street": "мкр. Алгабас-1,",
+    "latitude": false,
+    "id": 2770,
+    "cadastral_number": "20-321-050-035",
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "мкр.Алгабас-1, д. 5/9",
+    "street_no": "д. 5/9",
+    "longtitude": "76.81512",
+    "meter_ids": [
+      7004,
+      14135
+    ],
+    "street": "мкр.Алгабас-1,",
+    "latitude": false,
+    "id": 2771,
+    "cadastral_number": "7/15043",
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "Гагарина 133/2",
+    "street_no": "133/2",
+    "longtitude": false,
+    "meter_ids": [],
+    "street": "Гагарина",
+    "latitude": false,
+    "id": 12302,
+    "cadastral_number": false,
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "Аносова 22",
+    "street_no": "д.22",
+    "longtitude": false,
+    "meter_ids": [],
+    "street": "Аносова",
+    "latitude": false,
+    "id": 70299,
+    "cadastral_number": false,
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "Аносова 24",
+    "street_no": "д.24",
+    "longtitude": false,
+    "meter_ids": [],
+    "street": "Аносова",
+    "latitude": false,
+    "id": 70300,
+    "cadastral_number": false,
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "Аносова дом № 28",
+    "street_no": "д.28",
+    "longtitude": false,
+    "meter_ids": [],
+    "street": "улица Аносова",
+    "latitude": false,
+    "id": 70301,
+    "cadastral_number": false,
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "Аносова дом № 30",
+    "street_no": "д.30",
+    "longtitude": false,
+    "meter_ids": [],
+    "street": "улица Аносова",
+    "latitude": false,
+    "id": 70302,
+    "cadastral_number": false,
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "Аносова дом № 32",
+    "street_no": "д.32",
+    "longtitude": false,
+    "meter_ids": [],
+    "street": "улица Аносова",
+    "latitude": false,
+    "id": 70303,
+    "cadastral_number": false,
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "Аносова дом № 34",
+    "street_no": "д.34",
+    "longtitude": false,
+    "meter_ids": [],
+    "street": "улица Аносова ",
+    "latitude": false,
+    "id": 70304,
+    "cadastral_number": false,
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "Аносова дом № 36",
+    "street_no": "д.36",
+    "longtitude": false,
+    "meter_ids": [],
+    "street": "улица Аносова ",
+    "latitude": false,
+    "id": 70305,
+    "cadastral_number": false,
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "Аносова дом № 37",
+    "street_no": "д.37",
+    "longtitude": false,
+    "meter_ids": [],
+    "street": "улица Аносова ",
+    "latitude": false,
+    "id": 70306,
+    "cadastral_number": false,
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "Аносова дом № 42",
+    "street_no": "д.42",
+    "longtitude": false,
+    "meter_ids": [],
+    "street": "улица Аносова",
+    "latitude": false,
+    "id": 70307,
+    "cadastral_number": false,
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "Аносова дом № 46",
+    "street_no": "д.46",
+    "longtitude": false,
+    "meter_ids": [],
+    "street": "улица Аносова",
+    "latitude": false,
+    "id": 70308,
+    "cadastral_number": false,
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "Аносова дом № 41",
+    "street_no": "д.41",
+    "longtitude": false,
+    "meter_ids": [],
+    "street": "улица Аносова",
+    "latitude": false,
+    "id": 70309,
+    "cadastral_number": false,
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "Аносова дом № 45",
+    "street_no": "д.45",
+    "longtitude": false,
+    "meter_ids": [],
+    "street": "улица Аносова",
+    "latitude": false,
+    "id": 70310,
+    "cadastral_number": false,
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "Аносова дом № 50",
+    "street_no": "д.50",
+    "longtitude": false,
+    "meter_ids": [],
+    "street": "улица Аносова",
+    "latitude": false,
+    "id": 70311,
+    "cadastral_number": false,
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "Аносова дом № 54",
+    "street_no": "д.54",
+    "longtitude": false,
+    "meter_ids": [],
+    "street": "улица Аносова",
+    "latitude": false,
+    "id": 70312,
+    "cadastral_number": false,
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "Аносова дом № 44",
+    "street_no": "д.44",
+    "longtitude": false,
+    "meter_ids": [],
+    "street": "улица Аносова",
+    "latitude": false,
+    "id": 70313,
+    "cadastral_number": false,
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "Аносова дом № 47",
+    "street_no": "д.47",
+    "longtitude": false,
+    "meter_ids": [],
+    "street": "улица Аносова",
+    "latitude": false,
+    "id": 70314,
+    "cadastral_number": false,
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "Аносова дом № 53",
+    "street_no": "д.53",
+    "longtitude": false,
+    "meter_ids": [],
+    "street": "улица Аносова",
+    "latitude": false,
+    "id": 70315,
+    "cadastral_number": false,
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "Аносова дом № 53а",
+    "street_no": "д.53а",
+    "longtitude": false,
+    "meter_ids": [],
+    "street": "улица Аносова",
+    "latitude": false,
+    "id": 70316,
+    "cadastral_number": false,
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "Аносова 26",
+    "street_no": "д.26",
+    "longtitude": false,
+    "meter_ids": [],
+    "street": "Аносова",
+    "latitude": false,
+    "id": 70317,
+    "cadastral_number": false,
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "Комсомольская дом № 221",
+    "street_no": "221",
+    "longtitude": false,
+    "meter_ids": [],
+    "street": "улица Комсомольская",
+    "latitude": false,
+    "id": 70397,
+    "cadastral_number": false,
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "Болотникова дом № 25",
+    "street_no": "25",
+    "longtitude": false,
+    "meter_ids": [],
+    "street": "улица Болотникова",
+    "latitude": false,
+    "id": 70398,
+    "cadastral_number": false,
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "Болотникова дом № 16",
+    "street_no": "16",
+    "longtitude": false,
+    "meter_ids": [],
+    "street": "улица Болотникова",
+    "latitude": false,
+    "id": 70399,
+    "cadastral_number": false,
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "Болотникова дом № 29",
+    "street_no": "29",
+    "longtitude": false,
+    "meter_ids": [],
+    "street": "улица Болотникова",
+    "latitude": false,
+    "id": 70400,
+    "cadastral_number": false,
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "Гайдара дом № 54",
+    "street_no": "54",
+    "longtitude": false,
+    "meter_ids": [],
+    "street": "улица Гайдара",
+    "latitude": false,
+    "id": 70401,
+    "cadastral_number": false,
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "Гайдара дом № 52",
+    "street_no": "52",
+    "longtitude": false,
+    "meter_ids": [],
+    "street": "улица Гайдара",
+    "latitude": false,
+    "id": 70402,
+    "cadastral_number": false,
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "Гайдара дом № 77",
+    "street_no": "77",
+    "longtitude": false,
+    "meter_ids": [],
+    "street": "улица Гайдара",
+    "latitude": false,
+    "id": 70403,
+    "cadastral_number": false,
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "Гайдара дом № 40",
+    "street_no": "40",
+    "longtitude": false,
+    "meter_ids": [],
+    "street": "улица Гайдара",
+    "latitude": false,
+    "id": 70404,
+    "cadastral_number": false,
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "Гайдара дом № 42",
+    "street_no": "42",
+    "longtitude": false,
+    "meter_ids": [],
+    "street": "улица Гайдара",
+    "latitude": false,
+    "id": 70405,
+    "cadastral_number": false,
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "Гайдара дом № 48",
+    "street_no": "48",
+    "longtitude": false,
+    "meter_ids": [],
+    "street": "улица Гайдара",
+    "latitude": false,
+    "id": 70406,
+    "cadastral_number": false,
+    "tech_passport": false
+  },
+  {
+    "kato_area": [
+      37682,
+      "г.Алматы"
+    ],
+    "name": "Гайдара дом № 81",
+    "street_no": "81",
+    "longtitude": false,
+    "meter_ids": [],
+    "street": "улица Гайдара",
+    "latitude": false,
+    "id": 70407,
+    "cadastral_number": false,
+    "tech_passport": false
+  }
+]
